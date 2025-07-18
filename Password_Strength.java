@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class Password_Strength {
     public static void main(String[] args) {
         Scanner pass = new Scanner(System.in);
         System.out.println("Enter Password");
